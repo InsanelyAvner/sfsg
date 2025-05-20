@@ -1,1 +1,1 @@
-window.addEventListener('DOMContentLoaded', () => {alert('hi');});
+alert('hi')
